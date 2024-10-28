@@ -3,9 +3,7 @@
 ### Mini Project 3
 
 
-# Project Title
-
-Mini Project 3
+# Mini Project 3
 
 ## Description
 
