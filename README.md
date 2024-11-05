@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### Executing program
 
 ```
-code blocks for commands
+python app1.py
 ```
 
 ## Output
