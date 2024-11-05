@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <h1>Welcome to Angel's App!</h1>
+    <p>Please register to grade my app.</p>
+    {% if session['user_id'] %}
+        <p>You are logged in!</p>
+<p>Proceed to grade the page.</p>
+    {% else %}
+        <p>Thank you!.</p>
+    {% endif %}
+{% endblock %}
